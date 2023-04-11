@@ -61,7 +61,7 @@ const Nav = () => {
         <RiPinterestFill />
       </div>
       <span id="copyright">
-        <i>&copy; Joseph, Tanusri & Nurka</i>
+        <i>&copy; Joseph & Omar</i>
       </span>
     </div>
   );
