@@ -1,4 +1,4 @@
-export const baseURL = 'http://127.0.0.1:3000/api/v1';
+export const baseURL = 'https://libova.fly.dev/api/v1';
 
 export const createReservationAPI = (userID, reservation) => fetch(`${baseURL}/users/${userID}/reservations`, {
   method: 'POST',
