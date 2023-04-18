@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 Our Booking app sends you to the real world of Books. 
 ***
-[Hello Rails Back End App](https://github.com/NurkaAmre/FinalCapstone-Back-End).
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
